@@ -1,0 +1,8 @@
+/*1*/
+body{
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+    background-image: url("../multimedia/fondo.jpg");
+    background-repeat: no-repeat;
+    background-color: gray;
+}

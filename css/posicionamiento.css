@@ -1,0 +1,26 @@
+
+.header {
+    grid-area: header;
+}
+
+.footer {
+    grid-area: footer;
+}
+
+.content {
+    grid-area : main;
+}
+
+.sidebar {
+    grid-area : aside;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 650px);
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas: 
+      "header header"
+      "aside main"
+      "footer footer";
+}
