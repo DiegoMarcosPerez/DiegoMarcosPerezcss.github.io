@@ -1,20 +1,25 @@
 
+/*10*/
 .header {
     grid-area: header;
 }
 
+/*10*/
 .footer {
     grid-area: footer;
 }
 
+/*10*/
 .content {
     grid-area : main;
 }
 
+/*10*/
 .title {
     grid-area : h1;
 }
 
+/*10*/
 .wrapper{
     display: grid;
     grid-template-columns: repeat(2, 650px);

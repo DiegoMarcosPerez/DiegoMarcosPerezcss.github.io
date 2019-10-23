@@ -1,62 +1,76 @@
+/*11*/
 img.uno{
     float:right;
 	margin:20px;
 }
 
+/*11*/
 p.puno{
     width: 290px;
 }
 
+/*11*/
 figure.dos{
     float:right;
     margin:10px;
 }
 
+/*11*/
 p.pdos{
 width: 843px;
 }
 
+/*11*/
 figure.tres{
     float:left;
     margin:4px;
 }
 
+/*11*/
 figure.cuatro{
     display: block;
     text-align: center;
 }
 
+/*11*/
 figure.cinco{
     float: left;
     margin: 4px;
 }
 
+/*11*/
 figure.seis{
     float:right;
     margin:20px;
 }
 
+/*11*/
 figure.siete{
     float:left;
 }
 
+/*11*/
 figure.ocho{
     display: block;
     text-align: center;
 }
 
+/*11*/
 p.psiete{
     margin-left: 40px;
 }
 
+/*11*/
 p.psietev2{
     margin-left: 40px; 
 }
 
+/*11*/
 p.pseis{
     width: 1280px;
 }
 
+/*11*/
 p.pseisv2{
     width: 1280px;
 }
