@@ -11,8 +11,8 @@
     grid-area : main;
 }
 
-.sidebar {
-    grid-area : aside;
+.title {
+    grid-area : h1;
 }
 
 .wrapper{
@@ -21,6 +21,7 @@
     grid-auto-rows: minmax(100px, auto);
     grid-template-areas: 
       "header header"
-      "aside main"
+      "h1 h1"
+      "main main"
       "footer footer";
 }

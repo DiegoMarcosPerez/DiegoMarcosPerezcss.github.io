@@ -28,6 +28,8 @@ p, li, ul, table, tr, th {color:#111111; background-color: #BBF4F9; }
 /*6*/
 p, li, ul, table, tr, th {font-size: 1em;}
 
+ul{ list-style-type: square; }
+
 /*2*/
 p::first-letter{font-size: 1.2em;}
 
@@ -42,21 +44,18 @@ a:link { color: #F72B8E;}
 /*11*/
 a:visited { color: #F74D2B;}
 
-/*11*/
-a:link{ text-decoration-style: dotted;}
-/*11*/
-a:visited{text-decoration-style: dashed;}
-
 /*4*/
 table>tbody>tr>th {background-color:#F7B418; }
 /*4*/
 table>tbody>tr>td {background-color: #B3FE4E;}
 
+table{ margin : auto; }
+
 /*8*/
 table>tbody>tr>th, table>tbody>tr>td {text-align: center; }
 
 /*5*/
-body>header>nav>ul>li {display: inline; padding-left: 20px; padding-right: 20px; }
+body>header>nav>ul>li {display: inline; padding-left: 20px; padding-right: 20px;}
 /*4*/
 body>header>nav>ul {text-align: center;}
 
