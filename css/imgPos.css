@@ -17,7 +17,7 @@ figure.dos{
 
 /*11*/
 p.pdos{
-width: 843px;
+    width: 843px;
 }
 
 /*11*/
@@ -47,6 +47,7 @@ figure.seis{
 /*11*/
 figure.siete{
     float:left;
+    margin:30px;
 }
 
 /*11*/
@@ -57,12 +58,12 @@ figure.ocho{
 
 /*11*/
 p.psiete{
-    margin-left: 40px;
+    margin-left: 30px;
 }
 
 /*11*/
 p.psietev2{
-    margin-left: 40px; 
+    margin-left: 30px; 
 }
 
 /*11*/
